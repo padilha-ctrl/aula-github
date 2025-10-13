@@ -1,2 +1,3 @@
 # aula-github
-repositorio sobre github e git
+repositorio sobre github e git ☠️
+primeira aula
